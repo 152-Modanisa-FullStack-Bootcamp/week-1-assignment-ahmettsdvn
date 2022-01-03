@@ -3,7 +3,7 @@
 
 
 body{
-  /* background-color:#043d3a */
+  background-color:#043d3a
 }
 
 /* .login_container{
@@ -127,7 +127,7 @@ a[href="/signup"] span{
 } */
 
 /* Linkedin Post */
- 
+/* 
 .linkedin_post_container{  
   display: flex;
   align-items: center;
@@ -139,7 +139,7 @@ a[href="/signup"] span{
   background-color: #fff;
   border-radius: 20px;
   width: 800px;
-  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  
 }
 
 .linkedin_post .linkedin_post_header{
@@ -337,10 +337,10 @@ a[href="/signup"] span{
   color: rgba(0,0,0,.6);
   font-size: 15px;
   cursor:pointer;
-}
+}*/
 
 /****************************************************/
-/* 
+
 #list_container{
   display: flex;
   align-items: center;
@@ -376,4 +376,4 @@ a[href="/signup"] span{
   width: 400px;
   height: 400px;
   object-fit: fill;
-} */ 
+} 
